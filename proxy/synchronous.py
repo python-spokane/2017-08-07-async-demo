@@ -1,6 +1,8 @@
 #
 # synchronous.py
 #
+# author: Franco Gasperino
+#
 
 import time
 import socket

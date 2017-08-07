@@ -1,6 +1,8 @@
 #
 # asynchronous.py
 #
+# author: Franco Gasperino
+#
 
 import time
 import asyncio
